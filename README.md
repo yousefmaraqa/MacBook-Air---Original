@@ -23,6 +23,7 @@ MacBook Air 2008: 80 GB HDD or 64 GB SSD.
 
  MacBook Air 2008: Slim, 13.3-inch non-Retina display.
  MacBook Pro 2019: Modern design, Retina display options, and sizes (13.3 inch), with Touch Bar for enhanced functionality.
+***
 
 
 
