@@ -27,5 +27,6 @@ ___
 1. Macbook Air 2008
 2. Macbook Pro 2019
 
-
+[^1]: Macbook 2008.
+[^2]: Macbook 2019.  
 
