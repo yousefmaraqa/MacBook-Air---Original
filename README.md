@@ -1,8 +1,8 @@
 # MacBook-Air Original (2008)
  The MacBook Air 2008 was equipped with a 1.6 GHz Intel Core 2 Duo processor, it originally came with an 80 GB 1.8-inch hard drive, with an option to upgrade to a 64 GB SSD,it also had 2 GB of onboard 667 MHz DDR2 SDRAM with 2 Graphics Card (GPU) Specs which are the Intel GMA X3100 integrated graphics and Speed/Memory: Shared system memory (no dedicated VRAM). 
 ![alt text](https://www.iretron.com/blog/wp-content/uploads/2015/09/mbook-air.jpg)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=OIV6peKMj9M)
 ***
-
 # My MacBook Pro (2019)
 The Macbook Pro 13-inch, 2019, Two Thunderbolt 3 ports was equipped with the Intel Core i5, Speed is 1.4 GHz, and the storage options includes both SSD configurations, storage capacities is 250 GB and the memory is equipped with DDR4 RAM with RAM configurations of 8GB it also includes Graphics Card Specs which are Integrated graphics were typically provided by Intel Iris Plus Graphics and Discrete graphics options included AMD Radeon Pro 5000M series GPUs with varying specifications, such as VRAM of 8 GB.
 ![alt text](https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP799/sp799-mbp13touch-space.jpg)
