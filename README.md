@@ -14,13 +14,13 @@ The Macbook Pro 13-inch, 2019, Two Thunderbolt 3 ports was equipped with the Int
 | 250 GB Storage | 80 GB Storage|    
 ***
 # Differences between the MacBook-Air Original (2008) and My MacBook Pro (2019)
-
+---
 MacBook Air 2008: Basic tasks with a 1.6 GHz Core 2 Duo.
  My MacBook Pro 2019: Powerhouse with i5, up to 64 GB RAM, and dedicated graphics, ideal for demanding applications.
 
 MacBook Air 2008: 80 GB HDD or 64 GB SSD.
  My MacBook Pro 2019: SSDs 250 GB, faster, more reliable, and suited for high-performance tasks.
-
+___
  MacBook Air 2008: Slim, 13.3-inch non-Retina display.
  MacBook Pro 2019: Modern design, Retina display options, and sizes (13.3 inch), with Touch Bar for enhanced functionality.
 ***
